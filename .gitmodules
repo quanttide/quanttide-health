@@ -19,3 +19,6 @@
 [submodule "data/profile"]
 	path = data/profile
 	url = https://github.com/quanttide/quanttide-profile-of-health-management.git
+[submodule "apps/qthealth"]
+	path = apps/qthealth
+	url = https://github.com/quanttide/qthealth.git
