@@ -14,6 +14,7 @@
 
 - 注册子模块：`apps/qtcloud-health`、`packages/quanttide-health-toolkit`、`examples/default`
 - 注册子模块：`data/context`、`data/journal`
+- 注册子模块：`data/intention`（意图仓库，含个人/家庭/企业 + 数据安全产品思路）
 
 ### 变更
 

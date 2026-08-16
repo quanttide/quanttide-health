@@ -22,6 +22,7 @@
 | `examples/default` | 健康管理实验室 (git submodule → quanttide-laboratory-of-health-management) |
 | `data/context` | 健康管理语境 (git submodule → quanttide-context-of-health-management) |
 | `data/journal` | 健康管理日志 (git submodule → quanttide-journal-of-health-management) |
+| `data/intention` | 健康管理意图 (git submodule → quanttide-intention-of-health-management) |
 
 ## 许可
 
