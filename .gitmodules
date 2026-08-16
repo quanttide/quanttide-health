@@ -16,3 +16,6 @@
 [submodule "data/intention"]
 	path = data/intention
 	url = https://github.com/quanttide/quanttide-intention-of-health-management.git
+[submodule "data/profile"]
+	path = data/profile
+	url = https://github.com/quanttide/quanttide-profile-of-health-management.git
