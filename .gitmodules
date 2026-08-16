@@ -1,0 +1,9 @@
+[submodule "apps/qtcloud-health"]
+	path = apps/qtcloud-health
+	url = https://github.com/quanttide/qtcloud-health.git
+[submodule "packages/quanttide-health-toolkit"]
+	path = packages/quanttide-health-toolkit
+	url = https://github.com/quanttide/quanttide-health-toolkit.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/quanttide/quanttide-laboratory-of-health-management.git
