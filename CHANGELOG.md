@@ -18,6 +18,8 @@
 
 ### 变更
 
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-health-lab`（仓 quanttide-laboratory-of-health-management → quanttide-health-lab）
 - 领域边界细化：个人（全面）/ 家庭（大病管理）/ 企业（共同问题管理），强调健康数据安全（与安全工程协同）
 - qtcloud-health 补充产品定位（数据安全底线）
 
