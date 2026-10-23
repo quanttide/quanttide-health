@@ -18,7 +18,7 @@
 | 路径 | 说明 |
 |------|------|
 | `apps/qtcloud-health` | QtCloud 健康云 (git submodule) |
-| `packages/quanttide-health-toolkit` | 健康管理工具集 (git submodule) |
+| `packages/quanttide-health-toolkit` | 健康管理标准库 (git submodule) |
 | `examples/quanttide-health-lab` | 健康管理实验室 (git submodule → quanttide-health-lab) |
 | `data/context` | 健康管理语境 (git submodule → quanttide-context-of-health-management) |
 | `data/journal` | 健康管理日志 (git submodule → quanttide-journal-of-health-management) |
